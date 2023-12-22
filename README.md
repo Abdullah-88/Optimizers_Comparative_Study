@@ -1,4 +1,4 @@
-# Autoselection of the Ensemble of Convolutional Neural Networks with Second-Order Cone Programming
+# Comparatively Studying Modern Optimizers Capability for Fitting Vision Transformers
 
 Abdullah Nazhat Abdullah, 
 Tarkan Aydin
