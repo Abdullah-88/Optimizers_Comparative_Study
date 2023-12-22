@@ -4,7 +4,25 @@ Abdullah Nazhat Abdullah,
 Tarkan Aydin
 
 ## Abstract
-
+The Transformer architectures have been achieving great
+strides in both research and industry, garnering high adoption due to
+their versatility and generality. These qualities, combined with the avail-
+ability of internet-scale datasets, open the path to constructing Deep
+Learning systems that can target many modalities and several tasks
+within each modality. Throughout the years, many optimization algo-
+rithms have been proposed and utilized in fitting Deep Learning models.
+Although many comparative assessments were made that investigated
+analyzing and selecting the best optimizer to fit architectures prior to
+Transformers, the literature lacks such extensive assessments in relation
+to optimizing Transformer-based Deep Learning models. In this paper,
+we investigated modern and recently introduced Deep Learning opti-
+mizers and applied the comparative assessment to multiple Transformer
+architectures implemented for the task of image classification. It was
+discovered experimentally by our comparative study that the novel op-
+timizer LION provided the best performance on the target task and
+datasets, proving that the algorithmic design of optimizers can compete
+with and surpass handcrafted optimization schemes that are normally
+used in fitting Transformer architectures.
 
 ## Getting the code
 
