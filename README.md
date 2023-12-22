@@ -1,4 +1,5 @@
 # Comparatively Studying Modern Optimizers Capability for Fitting Vision Transformers
+# Conference paper, EAI ROSENET 2023 - 7th EAI International Conference on Robotics and Networks 
 
 Abdullah Nazhat Abdullah, 
 Tarkan Aydin
