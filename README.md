@@ -11,6 +11,8 @@ analyzing and selecting the best optimizer to fit architectures prior to Transfo
 to optimizing Transformer-based Deep Learning models. In this paper, we investigated modern and recently introduced Deep Learning optimizers and applied the comparative assessment to multiple Transformer architectures implemented for the task of image classification. It was
 discovered experimentally by our comparative study that the novel optimizer LION provided the best performance on the target task and datasets, proving that the algorithmic design of optimizers can compete with and surpass handcrafted optimization schemes that are normally used in fitting Transformer architectures.
 
+https://rosenets.eai-conferences.org/2023/program-at-a-glance/
+
 ## Getting the code
 
 You can download a copy of all the files in this repository by cloning the
